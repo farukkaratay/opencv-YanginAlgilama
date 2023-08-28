@@ -1,1 +1,2 @@
 # opencv-YanginAlgilama
+Bu çalışma, OpenCV kütüphanesi kullanarak bilgisayarın web kamerasından ateş tespiti yapma sürecini anlatmaktadır. Görüntü işleme teknikleri kullanılarak belirli renk aralığındaki pikseller tespit edilir ve boyutları kontrol edilir. Ateş tespit edildiğinde, kullanıcıya hem terminale yazılı mesajla hem de görsel olarak geri bildirim sağlanır. Bu yaklaşım, güvenlik uygulamaları ve acil durum yönetimi gibi alanlarda kullanılabilir.
