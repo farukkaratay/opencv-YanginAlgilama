@@ -34,7 +34,7 @@ This repository **only includes the fire detection code using OpenCV.** The full
 
 ## 🧪 Sample Screenshot
 
-![Fire Detection Sample](Autonomous Fire Detection Drone System.png)  
+![Fire Detection Sample](AutonomousFireDetectionDroneSystem.png)  
 *A frame from simulation where fire is detected via OpenCV.*
 
 ---
